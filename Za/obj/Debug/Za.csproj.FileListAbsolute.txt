@@ -1,0 +1,13 @@
+C:\Users\neazi\source\repos\Za\Za\bin\Debug\Za.exe.config
+C:\Users\neazi\source\repos\Za\Za\bin\Debug\Za.exe
+C:\Users\neazi\source\repos\Za\Za\bin\Debug\Za.pdb
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.csproj.AssemblyReference.cache
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.csproj.SuggestedBindingRedirects.cache
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.Form1.resources
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.Properties.Resources.resources
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.csproj.GenerateResource.cache
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.csproj.CoreCompileInputs.cache
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.exe
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.pdb
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.TeachForm.resources
+C:\Users\neazi\source\repos\Za\Za\obj\Debug\Za.TestForm.resources
