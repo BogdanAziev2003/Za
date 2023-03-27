@@ -57,7 +57,6 @@ namespace Za
                     box.Image = pictureBox;
                     box.ImageUrl = "Test/" + indexArr[BoxList.Count] + ".png";
                     box.Index = indexArr[BoxList.Count].Substring(0, 1);
-                    pictureBox.Image = Image.FromFile("Test/" + indexArr[BoxList.Count] + ".png");
 
                     // Добавляем pictureBox в панель
                     panel.Controls.Add(pictureBox);
